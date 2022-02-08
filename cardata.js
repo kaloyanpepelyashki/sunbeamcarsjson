@@ -5,7 +5,8 @@
         "category": "Minivan",
         "personCapacity": 7,
         "suitcaseCapacity": 4,
-        "image": ""
+        "image": "",
+        "supplement": 105
     },
     {
         "brand": "Scoda",
@@ -13,7 +14,8 @@
         "category": "Small family car",
         "personCapacity": 5,
         "suitcaseCapacity": 2,
-        "image": ""
+        "image": "",
+        "supplement": 0
     },
     {
         "brand": "Kia",
@@ -21,7 +23,8 @@
         "category": "Compact SUV",
         "personCapacity": 5,
         "suitcaseCapacity": 4,
-        "image": ""
+        "image": "",
+        "supplement": 60
 
     },
     {
@@ -30,7 +33,8 @@
         "category": "Sport car", 
         "personCapacity": 5,
         "suitcaseCapacity": 4,
-        "image": ""
+        "image": "",
+        "supplement": 105
     }
     
 ]
