@@ -6,6 +6,7 @@
         "personCapacity": 7,
         "suitcaseCapacity": 4,
         "image": "images/Grand_spacetourer_go_diesel.png",
+        "comfort": "medium",
         "supplement": 105
     },
     {
@@ -15,6 +16,7 @@
         "personCapacity": 5,
         "suitcaseCapacity": 2,
         "image": "images/NEW_OCTAVIA_FRONT.png",
+         "comfort": "medium",
         "supplement": 0
     },
     {
@@ -24,6 +26,7 @@
         "personCapacity": 5,
         "suitcaseCapacity": 4,
         "image": "images/kia-sorento-phev-gls-my22-range-v1-520x260.png",
+         "comfort": "low",
         "supplement": 60
 
     },
@@ -34,6 +37,7 @@
         "personCapacity": 5,
         "suitcaseCapacity": 4,
         "image": "images/BMWZ4.png",
+         "comfort": "medium",
         "supplement": 105
     }
     
