@@ -5,7 +5,7 @@
         "category": "Minivan",
         "personCapacity": 7,
         "suitcaseCapacity": 4,
-        "image": "",
+        "image": "images/Grand_spacetourer_go_diesel.png",
         "supplement": 105
     },
     {
@@ -14,7 +14,7 @@
         "category": "Small family car",
         "personCapacity": 5,
         "suitcaseCapacity": 2,
-        "image": "",
+        "image": "images/NEW_OCTAVIA_FRONT.png",
         "supplement": 0
     },
     {
@@ -23,17 +23,17 @@
         "category": "Compact SUV",
         "personCapacity": 5,
         "suitcaseCapacity": 4,
-        "image": "",
+        "image": "images/kia-sorento-phev-gls-my22-range-v1-520x260.png",
         "supplement": 60
 
     },
     {
         "brand": "BMW",
-        "model": "",
+        "model": "Z4",
         "category": "Sport car", 
         "personCapacity": 5,
         "suitcaseCapacity": 4,
-        "image": "",
+        "image": "images/BMWZ4.png",
         "supplement": 105
     }
     
