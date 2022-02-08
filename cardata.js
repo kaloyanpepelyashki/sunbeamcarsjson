@@ -26,11 +26,11 @@
     },
     {
         "brand": "BMW",
-        "model": ""
-        "category": "Sport car" 
+        "model": "",
+        "category": "Sport car", 
         "personCapacity": 5,
         "suitcaseCapacity": 4,
-        "image"=""
+        "image": ""
     }
     
 ]
